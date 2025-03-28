@@ -1,0 +1,87 @@
+{"Laptops":[
+    {
+      "id": "772926",
+      "name": "Hp Envy",
+      "price": 70000,
+      "desc": "New Laptop HP Envy X360 16GB Intel Core I7 SSD 512GB.",
+      "img": "images/lap1.webp"
+    },
+    {
+      "id": "199910",
+      "name": "Hp mini laptop",
+      "price": 31000,
+      "desc": "New Hp mini laptop 2019 8GB Intel Core I5 SSD 256GB.",
+      "img": "images/lap2.webp"
+    },
+    {
+      "id": "120002",
+      "name": "HP ENVY",
+      "price": 51000,
+      "desc": "Refurbished Laptop HP Envy X360 16GB Intel Core I5 SSD 512GB.",
+      "img": "images/lap3.webp"
+    },
+    {
+      "id": "234900",
+      "name": "MICROSOFT",
+      "price": 60000,
+      "desc": " New laptop Microsoft Pro 2020 16GB Intel Core I7 SSD 256GB.",
+      "img": "images/lap4.webp"
+    },
+    {
+      "id": "1200089",
+      "name": "HP ELITEBOOK",
+      "price": 65000,
+      "desc": "Laptop Hp ELitebook 2021 16GB Intel Core I7 SSD 512GB.",
+      "img": "images/lap5.webp"
+    },
+    {
+      "id": "2300987",
+      "name": "HP ELITEBOOK",
+      "price": 45000,
+      "desc": "Refurbished Laptop Hp ELitebook 2019 16GB Intel Core I5 SSD 256GB.",
+      "img": "images/lap6.webp"
+    },
+    {
+      "id": "1235677",
+      "name": "HP ELITE",
+      "price": 62000,
+      "desc": "New HP Elitebook 2022 16GB Intel Core I7 SSD 512GB",
+      "img": "images/lap7.webp"
+    },
+    {
+      "id": "12345767",
+      "name": "MICROSOFT",
+      "price": 94500,
+      "desc": "New Laptop MICROSOFT Pro 2019 16GB Intel Core I7 SSD 512GB.",
+      "img": "images/lap8.webp"
+    },
+    {
+      "id": "12345610",
+      "name": "MICROSOFT",
+      "price": 50000,
+      "desc": "Laptop MICROSOFT Pro 2019 16GB Intel Core I7 SSD 256GB.",
+      "img": "images/lap9.webp"
+    },
+    {
+      "id": "8900012",
+      "name": "HP ENVY",
+      "price": 52000,
+      "desc": "Refurbished Laptop Hp ELitebook 2020 16GB Intel Core I7 SSD 256GB.",
+      "img": "images/lap10.webp"
+    },
+    {
+      "id": "12098734",
+      "name": "HP ELITEBOOK",
+      "price": 55000,
+      "desc": "New Hp  laptop 2019 16GB Intel Core I5 SSD 256GB.",
+      "img": "images/lap11.webp"
+    },
+    {
+      "id": "12367890",
+      "name": "MACBOOK",
+      "price": 200000,
+      "desc": "Laptop Apple MacBook Pro 2019 16GB Intel Core I7 SSD 256GB",
+      "img": "images/lap12.webp"
+    }
+  ]
+  }
