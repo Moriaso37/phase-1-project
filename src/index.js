@@ -4,7 +4,7 @@ let label = document.getElementById("label");
 let basket = JSON.parse(localStorage.getItem("data")) || [];
 let shopItemsData = [];
 
-fetch("http://localhost:3000/Laptops") 
+fetch("https://backend-server-g2jz.onrender.com/api/Laptops") 
   .then((response) => response.json())
   .then((data) => {
     shopItemsData = data;
